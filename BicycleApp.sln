@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BicycleApp", "BicycleApp\BicycleApp.csproj", "{4B6C4E26-8239-4428-9182-FA66726D32BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BicycleLibrary", "..\BicycleLibrary\BicycleLibrary\BicycleLibrary.csproj", "{7B154248-2248-4FE5-8790-CF7EF102AA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6C4E26-8239-4428-9182-FA66726D32BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6C4E26-8239-4428-9182-FA66726D32BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6C4E26-8239-4428-9182-FA66726D32BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6C4E26-8239-4428-9182-FA66726D32BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B154248-2248-4FE5-8790-CF7EF102AA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B154248-2248-4FE5-8790-CF7EF102AA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B154248-2248-4FE5-8790-CF7EF102AA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B154248-2248-4FE5-8790-CF7EF102AA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC71736-9B56-49FA-9CC3-60F4BE939F0C}
+	EndGlobalSection
+EndGlobal
